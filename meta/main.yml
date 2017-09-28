@@ -2,10 +2,10 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
+  author: devopsstore
   description: Memcached for Linux
-  company: "Midwestern Mac, LLC"
-  license: "license (BSD, MIT)"
+  company: "http://devopsstore.com.br"
+  license: "license (GNU)"
   min_ansible_version: 2.0
   platforms:
     - name: EL
